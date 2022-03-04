@@ -37,7 +37,6 @@ My name is Tatiana Pagà Franch, I'm a Full Stack Developer from Spain and curre
 📊 **This week I spent my time on:**
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <!--
