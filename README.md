@@ -34,15 +34,12 @@ My name is Tatiana Pagà Franch, I'm a Full Stack Developer from Spain and curre
 <code><img height="20" src="https://symbols.getvecta.com/stencil_73/94_amazon-web-services-icon.8cfc0dbbf2.svg"></code>
 <br />
 
-📊 **This week I spent my time on:**
+📊 **Some nice statistics:**
 
-<!--START_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/tatfranch/github-readme-stats)
 
-```text
-No activity tracked
-```
+[![Tatiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatfranch)](https://github.com/tatfranch/github-readme-stats)
 
-<!--END_SECTION:waka-->
 
 <!--
 **tatfranch/tatfranch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
