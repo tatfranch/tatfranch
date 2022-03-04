@@ -19,7 +19,7 @@ My name is Tatiana Pagà Franch, I'm a Full Stack Developer from Spain and curre
 
   <img align="right" alt="GIF" src="https://media2.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif?cid=ecf05e474xrord02a56k1rd6dttky6r13ibzm935dzhq88a0&rid=giphy.gif&ct=g" />
 
-**Languages and Tools:**
+**Languages & Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -34,7 +34,7 @@ My name is Tatiana Pagà Franch, I'm a Full Stack Developer from Spain and curre
 <code><img height="20" src="https://symbols.getvecta.com/stencil_73/94_amazon-web-services-icon.8cfc0dbbf2.svg"></code>
 <br />
 
-📊 **This week i spent my time on:**
+📊 **This week I spent my time on:**
 
 <!--START_SECTION:waka-->
 
