@@ -16,8 +16,7 @@ Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 My name is Tatiana Pagà Franch, I'm a Full Stack Developer from Spain and currently based in Malmö (Sweden). My passion is to make beautiful and functional websites with great and optimal performance. One of my dreams is to be able to combine my developer skills with Blockchain Technologies.
 
 - 💼 Do you wanna connect? You can reach me here: [email](mailto:tatianapagafranch@gmail.com)
-
-  <img align="right" alt="GIF" src="https://media2.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif?cid=ecf05e474xrord02a56k1rd6dttky6r13ibzm935dzhq88a0&rid=giphy.gif&ct=g" />
+  <img align="right" alt="GIF" src="https://media2.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif?cid=ecf05e474xrord02a56k1rd6dttky6r13ibzm935dzhq88a0&rid=giphy.gif&ct=g" height="400"/>
 
 **Languages & Tools:**
 
@@ -36,7 +35,7 @@ My name is Tatiana Pagà Franch, I'm a Full Stack Developer from Spain and curre
 
 📊 **Some nice statistics:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatfranch)](https://github.com/tatfranch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatfranch&layout=compact)](https://github.com/tatfranch/github-readme-stats)
 
 [![Tatiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatfranch)](https://github.com/tatfranch/github-readme-stats)
 
