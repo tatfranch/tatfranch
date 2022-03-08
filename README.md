@@ -37,7 +37,7 @@ My name is Tatiana Pagà Franch, I'm a Full Stack Developer from Spain and curre
 <hr />
 
 🔭 I’m currently working on...<br />
-  [Github Finder App](https://github.com/tatfranch/github-finder-app): Building a website where you can find Github users and display their info.
+  [Github Finder App](https://github.com/tatfranch/github-finder-app): React App where you can find Github users and display their info.
 
 💼 Do you wanna connect? You can reach me here: [email](mailto:tatianapagafranch@gmail.com)
 
