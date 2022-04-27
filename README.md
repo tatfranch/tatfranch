@@ -38,7 +38,7 @@ My name is Tatiana Pagà Franch, I'm a Full Stack Developer from Spain and curre
 <hr />
 
 🔭 I’m currently working on...<br />
-  [Github Finder App](https://github.com/tatfranch/github-finder-app): React App where you can find Github users and display their info.
+  [Web 3.0 App](https://github.com/tatfranch/web3-app): React App that can connect with MetaMask, send or receive ETH and store data in the Blockchain.
 
 💼 Do you wanna connect? You can reach me here: [email](mailto:tatianapagafranch@gmail.com)
 
