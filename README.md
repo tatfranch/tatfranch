@@ -24,10 +24,7 @@
 
 <hr />
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=6005&color=8AF769&center=true&vCenter=true&lines=My+Tools"></a>
-</p>
+<h3 align="center"> MY TOOLS </h3>
 
 <h3 align="center"> Languages & markdown </h3>
 <p align="center">
