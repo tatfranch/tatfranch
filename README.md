@@ -1,16 +1,22 @@
-Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h3 align="center">
+  Welcome to Tatiana Paga Franch's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<a href="https://www.instagram.com/tat_franch/">
-  <img align="left" alt="Tatiana's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/tatfranch">
-  <img align="left" alt="Tatiana Pagà Franch | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/tatiana-pag%C3%A0-franch-136800a1/?locale=en_US">
-  <img align="left" alt="Tatiana's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=8AF769&center=true&vCenter=true&lines=Full+Stack+Developer;Blockchain+Addict"></a>
+</p>
 
-<br />
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://twitter.com/tatfranch"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.iconfinder.com/stored_data/389704/128/png?token=1652891161-Ux0LsVAsQVSYkpzBsHpSAwVBQx75EximEMr0%2BUMhb3I%3D"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/tat_franch/" alt="Instagram"><img width="32px" src="https://cdn.iconfinder.com/stored_data/389706/128/png?token=1652891280-cySGRjCQKEUDp8B4E9KewATUFfFZg2U9hErYMu%2FoC98%3D"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/tatiana-pag%C3%A0-franch-136800a1/?locale=en_US"><img width="32px" alt="Linkedin" src="https://cdn.iconfinder.com/stored_data/389711/128/png?token=1652891415-0jU7CYsGfXq3GdeGFaYs6hkZ0fenisVv6ZSE5wxDoV0%3D"></a>
+</p>
+
 <hr />
 
 My name is Tatiana Pagà Franch, I'm a Full Stack Developer from Spain and currently based in Malmö (Sweden). My passion is to make beautiful and functional websites with great and optimal performance. One of my dreams is to be able to combine my developer skills with Blockchain Technologies.
