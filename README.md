@@ -33,7 +33,7 @@ My name is Tatiana Pagà Franch, I'm a Full Stack Developer from Spain and curre
 <code><img height="20" src="https://symbols.getvecta.com/stencil_73/94_amazon-web-services-icon.8cfc0dbbf2.svg"></code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatfranch&layout=compact)](https://github.com/tatfranch/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatfranch&theme=tokyonight)
 
 <hr />
 
