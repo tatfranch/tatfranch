@@ -20,7 +20,7 @@
 
 <!-- Presentation -->
 
-<p align="justify"> My name is Tatiana Pagà Franch, I'm a Full Stack Developer from Spain and currently based in Malmö (Sweden). My passion is to make beautiful and functional websites with great and optimal performance. One of my dreams is to be able to combine my developer skills with Blockchain Technologies.</p>
+<p align="justify"> My name is Tatiana Pagà Franch, I'm a Full Stack Developer from Spain and currently based in Malmö (Sweden). My passion is to make beautiful and functional websites with great and optimal performance. Amongst my main endeavours you will find me combining my Developer skills with Blockchain and Cryptocurrency.</p>
 
 <hr />
 
