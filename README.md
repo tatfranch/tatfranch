@@ -10,11 +10,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/tatfranch"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.iconfinder.com/stored_data/389704/128/png?token=1653129463-1qxI2AorkGyBgsz7mJy7HfZaXWfT7PcJ1R7Q%2BrTBz2o%3D"/></a>
+  <a href="https://twitter.com/tatfranch"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.iconfinder.com/stored_data/389704/128/png?token=1653306749-N6AL9D%2BBBOju75wBqn7%2Fh3gMQRnRadSf2L0UtukseQQ%3D"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/tat_franch/" alt="Instagram"><img width="32px" src="https://cdn.iconfinder.com/stored_data/389706/128/png?token=1653129436-9tiETqlLqfhrm1wjtHbd58k2Uqtjmi30Xogs7ScfPww%3D"/></a>
+  <a href="https://www.instagram.com/tat_franch/" alt="Instagram"><img width="32px" src="https://cdn.iconfinder.com/stored_data/389706/128/png?token=1653306721-5L%2BjcJWzKfbAH6tIXPWSPmO6Y0XP71Uwk%2FL8%2BVN0d8A%3D"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/tatiana-pag%C3%A0-franch-136800a1/?locale=en_US"><img width="32px" alt="Linkedin" src="https://cdn.iconfinder.com/stored_data/394775/128/png?token=1653129372-cd42v3mYkisDDctPDtt2%2FTTV2abVdvBnmsDMXKeMuIg%3D"></a>
+  <a href="https://www.linkedin.com/in/tatiana-pag%C3%A0-franch-136800a1/?locale=en_US"><img width="32px" alt="Linkedin" src="https://cdn.iconfinder.com/stored_data/394775/128/png?token=1653306645-VO3WkgGRBzgXcsiT%2FxYob5p1CI3Cs%2BPqKfF7OxSYbts%3D"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:tatianapagafranch@gmail.com"><img width="32px" alt="Gmail" src="https://cdn.iconfinder.com/stored_data/391203/128/png?token=1653297037-2G3cIMaxfRjx9KYPe60i8OZJrelPj09gdizQi4hsAJ0%3D"></a>
 </p>
