@@ -16,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/tatiana-pag%C3%A0-franch-136800a1/?locale=en_US"><img width="32px" alt="Linkedin" src="https://cdn.iconfinder.com/stored_data/394775/128/png?token=1653129372-cd42v3mYkisDDctPDtt2%2FTTV2abVdvBnmsDMXKeMuIg%3D"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:tatianapagafranch@gmail.com"><img width="32px" alt="Gmail" src="https://cdn.iconfinder.com/stored_data/391203/128/png?token=1652960557-F6eAM21xyTRkOPzcZnJ1hxdbYT66sFfd4YGX2V1n3eY%3D"></a>
+  <a href="mailto:tatianapagafranch@gmail.com"><img width="32px" alt="Gmail" src="https://cdn.iconfinder.com/stored_data/391203/128/png?token=1653297037-2G3cIMaxfRjx9KYPe60i8OZJrelPj09gdizQi4hsAJ0%3D"></a>
 </p>
 <hr />
 
