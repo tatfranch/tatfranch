@@ -5,18 +5,18 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=8AF769&center=true&vCenter=true&lines=Full+Stack+Developer;Blockchain+Addict"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=1DF7B7&center=true&vCenter=true&lines=Full+Stack+Developer;Blockchain+Addict"></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/tatfranch"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.iconfinder.com/stored_data/389704/128/png?token=1653306749-N6AL9D%2BBBOju75wBqn7%2Fh3gMQRnRadSf2L0UtukseQQ%3D"/></a>
+  <a href="https://twitter.com/tatfranch"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_twitter_communicaiton-1024.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/tat_franch/"><img width="32px" alt="Instagram" src="https://cdn.iconfinder.com/stored_data/389706/128/png?token=1653306721-5L%2BjcJWzKfbAH6tIXPWSPmO6Y0XP71Uwk%2FL8%2BVN0d8A%3D"/></a>
+  <a href="https://www.instagram.com/tat_franch/"><img width="32px" alt="Instagram" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_instagram_media-1024.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/tatiana-pag%C3%A0-franch-136800a1/?locale=en_US"><img width="32px" alt="Linkedin" src="https://cdn.iconfinder.com/stored_data/394775/128/png?token=1653306645-VO3WkgGRBzgXcsiT%2FxYob5p1CI3Cs%2BPqKfF7OxSYbts%3D"></a>
+  <a href="https://www.linkedin.com/in/tatiana-pag%C3%A0-franch-136800a1/?locale=en_US"><img width="32px" alt="Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_linkedin-1024.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:tatianapagafranch@gmail.com"><img width="32px" alt="Gmail" src="https://cdn.iconfinder.com/stored_data/391203/128/png?token=1653297037-2G3cIMaxfRjx9KYPe60i8OZJrelPj09gdizQi4hsAJ0%3D"></a>
+  <a href="mailto:tatianapagafranch@gmail.com"><img width="32px" alt="Gmail" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_gmail_google-1024.png"></a>
 </p>
 <hr />
 
