@@ -37,7 +37,7 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 </p>
 
-<h3 align="center"> Frameworks, Platforms and Libraries </h3>
+<h3 align="center"> Frameworks, Platforms & Libraries </h3>
 <p align="center">
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
