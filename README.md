@@ -76,6 +76,7 @@
 
 🔭 Currently working on...<br />
   Building my portfolio using Gatsby.
+  
   [Web 3.0 App](https://github.com/tatfranch/web3-app): React App that can connect with MetaMask, send or receive ETH and store data in the Blockchain.
 
 
